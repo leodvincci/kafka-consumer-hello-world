@@ -1,5 +1,3 @@
-# kafka-consumer-hello-world
-
 ### Concepts Illustrated
 - Basic message consumption using @KafkaListener
 - Understanding consumer groups
